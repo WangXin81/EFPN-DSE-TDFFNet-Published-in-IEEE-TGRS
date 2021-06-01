@@ -9,7 +9,7 @@ Enhanced Feature Pyramid Network with Deep Semantic Embedding for Remote Sensing
 
 https://ieeexplore.ieee.org/document/9314283/ 
 
-# Useage:
+# Usage:
 ```
 $$ step 1
 split images into train and test data;
