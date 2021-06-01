@@ -33,14 +33,14 @@ python predict.py
 
 
 # Datasets:
-UC Merced Land Use Dataset
-```
+UC Merced Land Use Dataset:
+
 http://weegee.vision.ucmerced.edu/datasets/landuse.html
-```
-AID Dataset
-```
+
+AID Dataset:
+
 https://captain-whu.github.io/AID/
-```
+
 
 # Citation:
 Please cite our paper if you find the work useful:
