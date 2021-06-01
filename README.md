@@ -5,7 +5,7 @@
 
 Enhanced Feature Pyramid Network with Deep Semantic Embedding for Remote Sensing Scene Classification
 
-# Link: 
+# Paper Link: 
 
 https://ieeexplore.ieee.org/document/9314283/ 
 
@@ -31,5 +31,27 @@ python predict.py
 
 ![Fig5](https://user-images.githubusercontent.com/85103981/120283035-555b0c00-c2ed-11eb-9384-3d5f530834c6.jpg)
 
-![Fig8](https://user-images.githubusercontent.com/85103981/120283364-aec33b00-c2ed-11eb-9ea1-67bda7170130.gif)   ![Fig13(a)](https://user-images.githubusercontent.com/85103981/120283435-c5699200-c2ed-11eb-95cc-a6e218212b0b.gif)
 
+# Datasets:
+UC Merced Land Use Dataset
+```
+http://weegee.vision.ucmerced.edu/datasets/landuse.html
+```
+AID Dataset
+```
+https://captain-whu.github.io/AID/
+```
+
+# Citation:
+Please cite our paper if you find the work useful:
+```
+@ARTICLE{9314283,
+  author={Wang, Xin and Wang, Shiyi and Ning, Chen and Zhou, Huiyu},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Enhanced Feature Pyramid Network With Deep Semantic Embedding for Remote Sensing Scene Classification}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TGRS.2020.3044655}}
+ ```
