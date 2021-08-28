@@ -1,5 +1,5 @@
 
-# TorchSC (IEEE-TGRS 2021): scene_classification_cnn_pytorch 
+# EFPN-DSE-TDFFNet  (Published in IEEE-TGRS) 
 
 # Paper:
 
